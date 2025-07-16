@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Emergency SOS Model Combiner
 
 ## Your Models
@@ -30,3 +31,7 @@ py combine_models.py
 2. Emotion Recognition (30%): Analyzes emotional distress
 3. Scream Detection (30%): Identifies screaming sounds
 4. Final Score: Weighted combination triggers SOS when > 0.7
+=======
+# Awazz
+MITR AI
+>>>>>>> df11b282ea5f6610d051cc9282524fd70d329409
